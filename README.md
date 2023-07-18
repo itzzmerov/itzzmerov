@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
 
-- 🔭 I’m currently working on [my personal portfolio](https://github.com/rovicbalingbing/personal-portfolio)
-
 - 🌱 I’m currently learning **ReactJS, AngularJS, and Ethical hacking (Cybersecurity).**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, and Ethical Hacking.**
