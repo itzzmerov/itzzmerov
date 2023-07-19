@@ -1,4 +1,4 @@
-[![Rovic-Balingbing.png](https://i.postimg.cc/Lsv4j4H6/Rovic-Balingbing.png)](https://bit.ly/m/hackingwithroscid)
+[![Rovic-Balingbing.png](https://i.postimg.cc/DZQxKW7k/Rovic-Balingbing-2.png)](https://bit.ly/m/hackingwithroscid)
 <h1 align="center">Hi 👋, my name is John Rovie R. Balingbing!</h1>
 <h3 align="center">"A web deveoper and cybersecurity enthusiast."</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
@@ -11,7 +11,7 @@
 
 - 📫 If you want to reach me, send an email at **balingbing.johnrovie20@gmail.com**
 
-- 📄 Know about my experiences [https://rovicbalingbing.github.io/responsive-resume/](https://rovicbalingbing.github.io/responsive-resume/)
+- 📄 Know about my experiences [by reading my resume!](https://rovicbalingbing.github.io/responsive-resume/)
 
 - ⚡ Fun fact **I always code to make myself depressed.😂🤣**
 
