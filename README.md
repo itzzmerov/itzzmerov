@@ -1,4 +1,4 @@
-[![Rovic-Balingbing.png](https://i.postimg.cc/DZQxKW7k/Rovic-Balingbing-2.png)](https://bit.ly/m/hackingwithroscid)
+[![Rovic-Balingbing-2.png](https://i.postimg.cc/DZQxKW7k/Rovic-Balingbing-2.png)](https://bit.ly/m/hackingwithroscid)
 <h1 align="center">Hi 👋, my name is John Rovie R. Balingbing!</h1>
 <h3 align="center">"A web deveoper and cybersecurity enthusiast."</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
