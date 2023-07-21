@@ -34,6 +34,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rovicbalingbing"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rovicbalingbing" /></a></p><br><br>
 <p></p>
+
+[![rovicbalingbing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rovicbalingbing&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rovicbalingbing&show_icons=true&locale=en&layout=compact" alt="rovicbalingbing" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rovicbalingbing&show_icons=true&locale=en" alt="rovicbalingbing" /></p>
