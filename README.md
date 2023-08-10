@@ -11,7 +11,7 @@
 
 - 📫 If you want to reach me, send an email at **balingbing.johnrovie20@gmail.com**
 
-- 📄 Know about my experiences [by reading my resume!](https://rovicbalingbing.github.io/responsive-resume/)
+- 📄 Know about my experiences [by reading my resume!](https://drive.google.com/file/d/1YK3vImB12E4OD3JTm6z6Ta9nuuDCclEG/view?usp=sharing)
 
 - ⚡ Fun fact **I always code to make myself depressed.😂🤣**
 
