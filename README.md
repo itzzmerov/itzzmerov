@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, AngularJS, and Ethical hacking (Cybersecurity).**
+- 🌱 I’m currently learning **Laravel, CodeIgniter, and Ethical hacking (Cybersecurity).**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, and Ethical Hacking.**
 
