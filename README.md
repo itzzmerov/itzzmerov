@@ -11,7 +11,7 @@
 
 - 📫 If you want to reach me, send an email at **balingbing.johnrovie20@gmail.com**
 
-- 📄 Know about my experiences [by reading my resume!](https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing){:target="_blank"}
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing" target="blank"> by reading my resume! </a>
 
 - ⚡ Fun fact **I always code to make myself depressed.😂🤣**
 
