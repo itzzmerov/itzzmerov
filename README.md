@@ -1,6 +1,6 @@
 [![Rovic-Balingbing.png](https://i.postimg.cc/Lsv4j4H6/Rovic-Balingbing.png)](https://bit.ly/m/hackingwithroscid)
 <h1 align="center">Hi 👋, my name is John Rovie R. Balingbing!</h1>
-<h3 align="center">"A Web Developer, IT Instructor, and Cybersecurity Enthusiast from the Philippines."</h3>
+<h3 align="center">"A Web Developer, IT Instructor, and Cybersecurity Enthusiast from Lucena City, Philippines."</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
