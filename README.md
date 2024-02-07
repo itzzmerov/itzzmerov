@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, and Tailwind CSS.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, and Cybersecurity.**
+- 💬 Ask me about **Web Development using JavaScript, PHP, & MySQL.**
 
 - 📫 If you want to reach me, send an email at **balingbing.johnrovie20@gmail.com**
 
