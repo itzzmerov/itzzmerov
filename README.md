@@ -1,7 +1,7 @@
 [![John-Rovie-Balingbing-Git-Hub-Timeline.png](https://i.postimg.cc/90nG8Bjx/John-Rovie-Balingbing-Git-Hub-Timeline.png)](https://facebook.com/itzzmerov.official)
 <h1 align="center">Hi, my name is John Rovie R. Balingbing!👋</h1>
 <h3 align="center">"A Web Developer, Cybersecurity Enthusiast, and Aspiring Content Creator from Philippines.💻"</h3>
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-a4d8232f70b0c748f479d4df13ec98bd">
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/98830c0f4be4eb50c6c75e78bad2f5a7/b9fe3f1610a8f26d-c2/s1280x1920/cb37d3cb1ee6dc0a7bb9ac33f3253f5e0518bcb6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
 
