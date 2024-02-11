@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, TypeScript, and Tailwind CSS.**
+- 🌱 I’m currently using **ReactJS, TypeScript, and Tailwind CSS.**
 
-- 💬 Ask me about **Web Development using JavaScript, PHP, & MySQL.**
+- 💬 You can ask me about **Web Development and Cybersecurity.**
 
-- 📫 If you want to reach me, send an email at **balingbing.johnrovie20@gmail.com**
+- 📫 If you want to message me, send an email at **balingbing.johnrovie20@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing" target="_blank"> by reading my resume! </a>
 
-- ⚡ Fun fact: **I always code to make myself depressed.😂🤣**
+- ⚡ You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@rovidev.official" target="_blank">https://www.youtube.com/@rovidev.official </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
