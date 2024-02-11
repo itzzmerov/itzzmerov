@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing" target="_blank"> by reading my resume! </a>
 
-- ⚡ You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@rovidev.official" target="_blank">https://www.youtube.com/@rovidev.official </a>
+- 🎥 You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@rovidev.official" target="_blank">https://www.youtube.com/@rovidev.official </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
