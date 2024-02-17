@@ -13,7 +13,7 @@
 
 - 📫 If you want to message me, send an email at **balingbing.johnrovie20@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing" target="_blank"> by reading my resume! </a>
+- 📄 Know all about my experiences <a href="https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing" target="_blank"> by reading this resume! </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
