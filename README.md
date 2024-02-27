@@ -7,7 +7,7 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackingwithroscid" height="30" width="40" /> You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@rovidev.official" target="_blank">https://www.youtube.com/@rovidev.official </a>
 
-- 🌱 I’m currently using **ReactJS, TypeScript, and Tailwind CSS.**
+- 🌱 I’m currently using **ReactJS, TypeScript, and ApexCharts JS.**
 
 - 💬 You can ask me about **Web Development and Cybersecurity.**
 
