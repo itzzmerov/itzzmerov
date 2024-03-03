@@ -1,5 +1,5 @@
 [![John-Rovie-Balingbing-Git-Hub-Timeline.png](https://i.postimg.cc/90nG8Bjx/John-Rovie-Balingbing-Git-Hub-Timeline.png)](https://facebook.com/itzzmerov.official)
-<h1 align="center">Hi, this is John Rovie R. Balingbing0!👋</h1>
+<h1 align="center">Hi👋, this is John Rovie R. Balingbing0!</h1>
 <h3 align="center">"A Web Developer and Cybersecurity Enthusiast from Philippines.💻"</h3>
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-1d2593e18298c5b8ccd0569f2c302042">
 
