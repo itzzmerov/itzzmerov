@@ -1,6 +1,6 @@
 [![John-Rovie-Balingbing-Git-Hub-Timeline.png](https://i.postimg.cc/90nG8Bjx/John-Rovie-Balingbing-Git-Hub-Timeline.png)](https://facebook.com/itzzmerov.official)
 <h1 align="center">What's up, Tech Neeks! This is John Rovie R. Balingbing!💻</h1>
-<h3 align="center">"A Web Developer, IT Instructor, and Cybersecurity Enthusiast from Philippines.👨‍💻"</h3>
+<h3 align="center">"A Web Developer and Cybersecurity Enthusiast from Philippines.👨‍💻"</h3>
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-1d2593e18298c5b8ccd0569f2c302042">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
