@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently using **ReactJS, PostgreSQL, and Django.**
 
-- 💬 You can ask me about **Web Development and Cybersecurity.**
+- 💬 You can ask me about **Web Development, Web Designing, and Cybersecurity.**
 
 - 📫 If you want to message me, send an email at **balingbing.johnrovie20@gmail.com**
 
