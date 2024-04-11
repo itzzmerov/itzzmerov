@@ -11,7 +11,7 @@
 
 - 💬 You can ask me about **Web Development, Web Designing, and Cybersecurity.**
 
-- 📫 If you want to message me, send an email at **balingbing.johnrovie20@gmail.com**
+- 📫 If you want to connect or collab with me, send an email to **balingbing.johnrovie20@gmail.com**
 
 - 📄 Know all about my experiences <a href="https://drive.google.com/file/d/1BEUM7P8f0A79ICtcRibyhsfF-SZtp-YL/view?usp=sharing" target="_blank"> by reading this resume! </a>
 
