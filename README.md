@@ -13,7 +13,7 @@
 
 - 📫 If you want to connect or collab with me, send an email to **balingbing.johnrovie20@gmail.com**
 
-- 📄 Know all about my experiences <a href="https://itzzmerov.github.io/responsive-resume/" target="_blank"> by reading this resume! </a>
+- 📄 Know all about my experiences <a href="https://itzzmerov.github.io/responsive-resume/" target="_blank"> by reading this online resume! </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
