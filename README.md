@@ -4,13 +4,12 @@
 
 <!-- THIS IS THE SET OF SOCIAL MEDIA ICONS I USE -->
 <p align="center">
-  <a href="https://www.youtube.com/@rovidev.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube logo" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/itzzmerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" width="40" /></a>
-  <a href="https://fb.com/itzzmerov.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook logo" height="30" width="40" /></a>
-  <a href="https://bit.ly/3HzzWXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PpvghUYFvF" height="30" width="40" /></a>
-  <a href="https://codepen.io/itzzmerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rovicbalingbing" height="30" width="40" /></a>
-  <a href="https://dev.to/itzzmerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rovicbalingbing" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/22247773/rovic-balingbing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22247773" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@rovidev.official" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube logo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" width="40" /></a>
+  <a href="https://fb.com/itzzmerov.official" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook logo" height="30" width="40" /></a>
+  <a href="https://bit.ly/3HzzWXA" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PpvghUYFvF" height="30" width="40" /></a>
+  <a href="https://dev.to/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rovicbalingbing" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22247773/rovic-balingbing" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22247773" height="30" width="40" /></a>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-1d2593e18298c5b8ccd0569f2c302042">
