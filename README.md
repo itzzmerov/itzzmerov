@@ -4,10 +4,9 @@
 
 <!-- THIS IS THE SET OF SOCIAL MEDIA ICONS I USE -->
 <p align="center">
-  <a href="https://www.youtube.com/@rovidev.official" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube logo" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@rovidev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube logo" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" width="40" /></a>
-  <a href="https://fb.com/itzzmerov.official" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook logo" height="30" width="40" /></a>
-  <a href="https://bit.ly/3HzzWXA" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PpvghUYFvF" height="30" width="40" /></a>
+  <a href="https://fb.com/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook logo" height="30" width="40" /></a>
   <a href="https://dev.to/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rovicbalingbing" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/22247773/rovic-balingbing" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22247773" height="30" width="40" /></a>
 </p>
@@ -16,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovicbalingbing&label=Profile%20views&color=0e75b6&style=flat" alt="rovicbalingbing" /> </p>
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackingwithroscid" height="30" width="40" /> You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@rovidev.official" target="_blank">https://www.youtube.com/@rovidev.official </a>
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hackingwithroscid" height="30" width="40" /> You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@rovidev" target="_blank">https://www.youtube.com/@rovidev </a>
 
 - 🌱 I’m currently learning **ReactJS & Django.**
 
