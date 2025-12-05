@@ -1,6 +1,6 @@
 [![John-Rovie-Balingbing-Git-Hub-Timeline.png](https://i.postimg.cc/90nG8Bjx/John-Rovie-Balingbing-Git-Hub-Timeline.png)](https://facebook.com/itzzmerov)
 <h1 align="center">What's up, Tech Neeks! I am John Rovie Balingbing💻</h1>
-<h3 align="center">"A Web Developer and IT Instructor from the Philippines!👨‍💻"</h3>
+<h3 align="center">"A Front-end Developer and Ui/UX Web Designer from the Philippines!👨‍💻"</h3>
 
 <!-- THIS IS THE SET OF SOCIAL MEDIA ICONS I USE -->
 <p align="center">
