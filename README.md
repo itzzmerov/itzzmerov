@@ -1,14 +1,14 @@
 [![John-Rovie-Balingbing-Git-Hub-Timeline.png](https://i.postimg.cc/90nG8Bjx/John-Rovie-Balingbing-Git-Hub-Timeline.png)](https://facebook.com/itzzmerov)
 <h1 align="center">What's up, Tech Neeks! I am John Rovie Balingbing💻</h1>
-<h3 align="center">"A Front-end Developer and Ui/UX Web Designer from the Philippines!👨‍💻"</h3>
+<h3 align="center">"A Front-end Developer and UI/UX Web Designer from the Philippines!👨‍💻"</h3>
 
 <!-- THIS IS THE SET OF SOCIAL MEDIA ICONS I USE -->
 <p align="center">
   <a href="https://www.youtube.com/@itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube logo" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rovicbalingbing" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" width="40" /></a>
   <a href="https://fb.com/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook logo" height="30" width="40" /></a>
   <a href="https://dev.to/itzzmerov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rovicbalingbing" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/22247773/rovic-balingbing" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22247773" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/31888707/rovic-balingbing" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22247773" height="30" width="40" /></a>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-1d2593e18298c5b8ccd0569f2c302042">
@@ -17,13 +17,13 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube logo" height="30" width="40" /> You can subscribe in my YouTube channel at <a href="https://www.youtube.com/@itzzmerov" target="_blank">https://www.youtube.com/@itzzmerov </a>
 
-- 🌱 I’m currently learning **ReactJS & Django.**
+- 🌱 I’m currently working as **Freelance Developer and Web Designer.**
 
-- 💬 You can ask me about **Web Development, Web Designing, and Cybersecurity.**
+- 💬 You can ask me about **Web Development and Web Designing.**
 
 - 📫 If you want to connect or collab with me, send an email to **balingbing.johnrovie20@gmail.com**
 
-- 📄 Know all about my experiences <a href="https://itzzmerov.github.io/responsive-resume/" target="_blank"> by reading this online resume! </a>
+- 📄 Know all about my experiences by going to my <a href="https://itzzmerov.netlify.app/" target="_blank">Portfolio Website!</a>
 
 <!-- THIS IS ALL THE LANGUAGES AND TOOLS I'VE ALREADY USED OR HAVE EXPERIENCE -->
 <h3 align="left">Languages and Tools:</h3>
@@ -40,13 +40,13 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <a/> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
 <!-- THIS IS THE ADDITIONAL SECTION FOR GRAPHS AND SO ON -->
 [![rovicbalingbing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzzmerov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzmerov&show_icons=true&locale=en&layout=compact" alt="rovicbalingbing" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzmerov&show_icons=true&locale=en&layout=compact" alt="itzzmerov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzmerov&show_icons=true&locale=en" alt="rovicbalingbing" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzmerov&show_icons=true&locale=en" alt="itzzmerov" /></p>
